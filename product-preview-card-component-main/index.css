@@ -1,0 +1,41 @@
+body {
+  background-color: #f3eae3;
+}
+
+.mainBox {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  height: 500px;
+  width: 700px;
+  border-radius: 10px;
+}
+
+.img1 {
+  width: auto;
+  height: 500px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  float: left;
+}
+
+.perfume {
+  float: left;
+  padding-left: 50px;
+  padding-top: 40px;
+  letter-spacing: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #6a6b6f;
+}
+
+.text2 {
+  padding-top: 100px;
+  margin-left: 400px;
+  width: 300px;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+}
