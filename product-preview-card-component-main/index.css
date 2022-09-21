@@ -3,81 +3,24 @@ body {
 }
 
 .mainBox {
-  position: absolute;
-  margin: auto;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+  margin: 0 auto;
   background-color: white;
   height: 500px;
   width: 700px;
   border-radius: 10px;
+  margin-top: 200px;
 }
 
-.img1 {
-  width: auto;
-  height: 500px;
+img {
+  height: 100%;
   border-bottom-left-radius: 10px;
-  border-top-left-radius: 10px;
   float: left;
 }
 
 .perfume {
-  float: left;
-  padding-left: 50px;
-  padding-top: 40px;
-  letter-spacing: 8px;
   font-family: "Montserrat", sans-serif;
-  color: #6a6b6f;
-}
-
-.text2 {
-  padding-top: 80px;
-  margin-left: 380px;
-  width: 300px;
-  font-size: 40px;
-  font-family: "Fraunces", serif;
-}
-
-.text3 {
-  font-family: "Montserrat", sans-serif;
+  margin-left: 360px;
   padding-top: 25px;
-  margin-left: 373px;
-  color: #6a6b6f;
   font-size: 15px;
-  word-spacing: 2px;
-  padding-right: 70px;
-  line-height: 25px;
-}
-.priceLine {
-  margin-left: 370px;
-  padding-top: 30px;
-}
-.currentPrice {
-  float: left;
-  font-family: "Fraunces", serif;
-  color: #347d62;
-  font-size: 37px;
-}
-
-.oldPrice {
-  text-decoration-line: line-through;
-  padding-top: 12px;
-  margin-left: 180px;
-  font-size: 14px;
-  color: #6a6b6f;
-}
-
-.button {
-  background-color: #1a4031;
-  height: 50px;
-  width: 250px;
-  margin-left: 373px;
-  margin-top: 30px;
-  border-radius: 7px;
-}
-
-.text4 {
-  text-align: center;
+  letter-spacing: 3px;
 }
